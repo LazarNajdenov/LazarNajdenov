@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LazarNajdenov
 - 👀 I’m interested in Backend and Game Development
-- 🌱 I’m currently learning Scala, Kotlin, and RabbitMQ
+- 🌱 I’m currently learning Scala, Kotlin, Kafka, and RabbitMQ
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: najdenovlazar@gmail.com
 
